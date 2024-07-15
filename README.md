@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Md_Yameen
-- 👀 I’m a ... full stack developement
+- 👀 I’m a ... full stack developer
 - 🌱 I’m currently learning ... Full stack developement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... yameenpasha2005@gmail.com
